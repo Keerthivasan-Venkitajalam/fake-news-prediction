@@ -1,5 +1,7 @@
 ### Fake News Detection Using Machine Learning
 
+Train.csv: https://drive.google.com/file/d/1XA-QiUoEZ4-sR18sWQuM7OOyZGvzuouU/view?usp=sharing
+
 This repository contains a machine learning project aimed at detecting fake news using a RandomForestClassifier. The project leverages text data from news articles to build a binary classification model capable of distinguishing between real and fake news.
 
 ---
